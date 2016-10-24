@@ -1,0 +1,46 @@
+
+config T825_PROJ
+	bool "T825_PROJ"
+	default n
+
+config T825A_DH_PROJ
+	bool "T825A_DH_PROJ"
+	default n
+	
+config T825B_YS_PROJ
+	bool "T825B_YS_PROJ"
+	default n
+	
+config T825C_YX_PROJ
+	bool "T825C_YX_PROJ"
+	default n
+	
+config T825D_LF_PROJ
+	bool "T825D_LF_PROJ"
+	default n
+		
+config T825F_YG_PROJ
+	bool "T825F_YG_PROJ"
+	default n
+	
+config T825G_PL_PROJ
+	bool "T825G_PL_PROJ"
+	default n
+	
+config T825H_BL11_PROJ
+	bool "T825H_BL11_PROJ"
+	default n
+	
+config T825K_CQ_PROJ
+	bool "T825K_CQ_PROJ"
+	default n
+	
+config T825N_YS_PROJ
+	bool "T825N_YS_PROJ"
+	default n
+		
+config T825P_BL12_PROJ
+	bool "T825P_BL12_PROJ"
+	default n
+	
+

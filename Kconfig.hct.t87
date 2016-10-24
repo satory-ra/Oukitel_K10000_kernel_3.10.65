@@ -1,0 +1,13 @@
+
+config T87_PROJ
+	bool "T87_PROJ"
+	default n
+	
+	
+config T87A_OQ_PROJ
+	bool "T87A_OQ_PROJ"
+	default n
+
+config T87E_CQ_PROJ
+	bool "T87E_CQ_PROJ"
+	default n

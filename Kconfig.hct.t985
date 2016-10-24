@@ -1,0 +1,12 @@
+
+config T985_PROJ
+	bool "T985_PROJ"
+	default n
+
+config T985D_HD_PROJ
+	bool "T985_PROJ"
+	default n
+
+config T985C_CH
+	bool "T985C_CH"
+	default n

@@ -1,0 +1,175 @@
+
+config HCT_DEVICE_INFO_SUPPORT
+	bool "HCT DEVICE INFO SUPPORT"
+	default n
+
+config TPD_PROXIMITY
+	bool "TPD_PROXIMITY"
+	default n
+
+config FINGERPRINT_ET300
+	bool "HCT FINGERPRINT_ET300 SUPPORT"
+	default n
+
+config FINGERPRINT_ET310
+	bool "HCT FINGERPRINT_ET310 SUPPORT"
+	default n
+
+config FINGERPRINT_FPS1196
+	bool "HCT FINGERPRINT_FPS1196 SUPPORT"
+	default n
+
+config HCT_FINGERPRINT_SUPPORT
+	bool "HCT HCT_FINGERPRINT_SUPPORT"
+	default n
+
+config FINGERPRINT_SILEADE
+	bool "HCT FINGERPRINT_SILEADE SUPPORT"
+	default n
+
+config FINGERPRINT_SILEADE_6162
+	bool "HCT FINGERPRINT_SILEADE_6162 SUPPORT"
+	default n
+	
+config FINGERPRINT_GF318M_GOODIX
+	bool "HCT FINGERPRINT_GF318M_GOODIX SUPPORT"
+	default n
+
+config FINGERPRINT_NEWSCHIP
+	bool "HCT FINGERPRINT_NEWSCHIP SUPPORT"
+	default n
+
+config FINGERPRINT_JMT103
+	bool "HCT FINGERPRINT_JMT103 SUPPORT"
+	default n
+
+config FINGERPRINT_SF115
+	bool "HCT FINGERPRINT_SF115 SUPPORT"
+	default n
+
+config FINGERPRINT_SF115_OLD
+	bool "HCT FINGERPRINT_SF115_OLD SUPPORT"
+	default n
+
+config FINGERPRINT_AFS120
+	bool "HCT FINGER MARIWEI SUPPORT"
+	default n
+	
+config HIGH_BATTERY_VOLTAGE_SUPPORT
+	bool "HCT HIGH_BATTERY_VOLTAGE_SUPPORT"
+	default n
+
+config CAMERA_SHOT_SUPPORT
+	bool "HCT CONFIG_CAMERA_SHOT_SUPPORT"
+	default n
+config HCT_TP_GESTRUE
+	bool "CONFIG_HCT_TP_GESTRUE"
+	default n
+config AW8736_MODE_CTRL
+	bool "AW8736_MODE_CTRL"
+	default n
+
+config HCT_GTP_HALL_CFG
+	bool "HCT TP USER DEFERENT CONFIG RELAY ON HALL STATUS"
+	default n
+	
+config HCT_LED_SGM3785
+	bool "HCT CONFIG_HCT_LED_SGM3785"
+	default n
+config MTK_DUMMY_PS
+	bool "HCT MTK_DUMMY_PS"
+	default n
+
+config HCT_AF_POWER_ON_NOISE
+	bool "HCT HCT_AF_POWER_ON_NOISE af dvdd power on in sensor driver to avoid noise"
+	default n
+	
+config NCP1854_DUAL_SUPPORT
+        bool "CONFIG_NCP1854_DUAL_SUPPORT config dual ncp1854 support"
+        default n
+
+config HCT_LETTICE_SUPPORT
+        bool "CONFIG_HCT_LETTICE_SUPPORT config lettice chip support"
+        default n
+	
+config LETTICE_VD_SUPPORT
+        bool "CONFIG_LETTICE_VD_SUPPORT config lettice voice wakeup feature support"
+        default n
+
+config S5K3M2_USE_AWB_OTP
+        bool "config S5K3M2_USE_AWB_OTP support"
+        default n
+
+config NCP1854_DUAL_SUPPORT
+        bool "CONFIG_NCP1854_DUAL_SUPPORT config dual ncp1854 support"
+        default n
+
+config HCT_FIXBUG_ESD_FLICKER
+        bool "HCT_FIXBUG_ESD_FLICKER fixbug: esd cause flicker"
+        default n
+
+config HIGH_4400_BATTERY_VOLTAGE_SUPPORT
+        bool "HIGH_4400_BATTERY_VOLTAGE_SUPPORT support 4.4V battery"
+        default n
+
+config MTK_AP3XX6_NEW
+        bool "CONFIG_MTK_AP3XX6_NEW config new alsps ap3xx6 support"
+        default n
+config AW9136_SUPPORT
+        bool "CONFIG_AW9136_SUPPORT TP BUTTON CHIP config AW9136_SUPPORT support"
+        default n
+
+config HCT_SMART_KEY_DETECT_SUPPORT
+        bool "CONFIG_HCT_SMART_KEY_DETECT_SUPPORT config yuxin super accdet support"
+        default n
+
+config HCT_NCP_HIGHER_CV
+	bool "CONFIG_HCT_NCP_HIGHER_CV config ncp1854 higher voltage support"
+        default n
+
+config AW_FLASH_LED_LONGTIME_SUPPORT
+        bool "HCT AW_FLASH_LED_LONGTIME_SUPPORT"
+        default n	
+
+config HCT_LCM_ESD_SUPPORT_LONG_PACKET
+        bool "HCT_LCM_ESD_SUPPORT_LONG_PACKET support"
+        default n
+
+config HCT_BATTERY_IMPROVE
+        bool "HCT_BATTERY_IMPROVE support"
+        default n
+
+config HX8394_ESD_OPEN
+        bool "HX8394_ESD_OPEN support"
+        default n
+
+config CHIP_BREATHLIGHT_SUPPORT
+        bool "CHIP_BREATHLIGHT_SUPPORT support"
+        default n
+
+config AW9106B_BREATH_SUPPORT
+        bool "AW9106B_BREATH CHIP SUPPORT support"
+        default n
+
+config AW2103_BREATH_SUPPORT
+        bool "AW2103_BREATH CHIP SUPPORT support"
+        default n
+
+config HCT_REMOVE_SIM_HOT_PLUG
+        bool "HCT_REMOVE_SIM_HOT_PLUG support"
+        default n
+
+config HCT_REMOVE_SD_HOT_PLUG
+        bool "HCT_REMOVE_SD_HOT_PLUG support"
+        default n
+
+config HCT_SUPPORT_ONEKEY_RST_8SEC
+		bool "HCT_SUPPORT_ONEKEY_RST_8SEC support"
+        default n
+
+config HCT_BATTERY_IMPROVE
+		bool "HCT_BATTERY_IMPROVE support"
+        default n
+config GSENSOR_ESD_CHECK_NEW_SUPPORT
+		bool "GSENSOR_ESD_CHECK_NEW support"
+        default n

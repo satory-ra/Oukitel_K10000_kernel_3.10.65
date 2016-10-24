@@ -1,0 +1,79 @@
+
+config T823_PROJ
+	bool "T823_PROJ"
+	default n
+
+config T823K_CQ_PROJ
+	bool "T823K_CQ_PROJ"
+	default n
+
+config T823A_DH_PROJ
+	bool "T823A_DH_PROJ"
+	default n
+
+config T823S_NYX_PROJ
+	bool "T823S_NYX_PROJ"
+	default n
+
+config T823Z_HW_PROJ
+	bool "T823Z_HW_PROJ"
+	default n
+
+config T823T_HS_PROJ
+	bool "T823T_HS_PROJ"
+	default n
+
+config T823AM_JKA6_PROJ
+	bool "T823AM_JKA6_PROJ"
+	default n
+
+config T823AC_JYKJ_PROJ
+	bool "T823AC_JYKJ_PROJ"
+	default n
+
+config T823AH_JYKJ_PROJ
+	bool "T823AH_JYKJ_PROJ"
+	default n
+
+config T823AE_HK_PROJ
+	bool "T823AE_HK_PROJ"
+	default n
+
+config T823AQ_HK_PROJ
+	bool "T823AQ_HK_PROJ"
+	default n
+
+config T823AB_CQ_PROJ
+	bool "T823AB_CQ_PROJ"
+	default n
+
+config T823Y_BL_PROJ
+	bool "T823Y_BL_PROJ"
+	default n
+
+config T823B_YS_PROJ
+	bool "T823B_YS_PROJ"
+	default n
+
+config T823D_LF_PROJ
+	bool "T823D_LF_PROJ"
+	default n
+
+config T823L_NYX_PROJ
+	bool "T823L_NYX_PROJ"
+	default n
+
+config T823N_YS_PROJ
+	bool "T823N_YS_PROJ"
+	default n
+
+config T823X_WH_PROJ
+	bool "T823X_WH_PROJ"
+	default n
+
+
+
+
+
+
+

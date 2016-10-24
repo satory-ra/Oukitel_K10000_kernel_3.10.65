@@ -1,0 +1,28 @@
+
+config T875_PROJ
+	bool "T875_PROJ"
+	default n
+
+config T875B_HS_PROJ
+	bool "T875_HS_PROJ"
+	default n
+	
+config T875C_DG_PROJ
+	bool "CONFIG_T875C_DG_PROJ"
+	default n
+
+config T875A_T92_PROJ
+	bool "CONFIG_T875A_T92_PROJ"
+	default n
+
+config T875F_T95_PROJ
+	bool "CONFIG_T875F_T95_PROJ"
+	default n
+
+config T875D_GQ_PROJ
+	bool "CONFIG_T875D_GQ_PROJ"
+	default n
+
+config T875K_S02_PROJ
+	bool "CONFIG_T875K_S02_PROJ"
+	default n

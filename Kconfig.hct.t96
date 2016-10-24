@@ -1,0 +1,13 @@
+
+config T96_PROJ
+	bool "T96_PROJ"
+	default n
+
+#customer
+config T96_YS_PROJ
+	bool "T96_YS_PROJ"
+	default n
+
+config T96_HD_PROJ
+	bool "T96_YS_PROJ"
+	default n

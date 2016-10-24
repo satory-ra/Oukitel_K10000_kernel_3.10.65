@@ -1,0 +1,7 @@
+
+config T255_PROJ
+	bool "T255_PROJ"
+	default n
+
+
+

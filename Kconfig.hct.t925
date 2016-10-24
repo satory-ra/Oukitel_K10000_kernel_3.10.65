@@ -1,0 +1,66 @@
+
+config T925_PROJ
+	bool "T925_PROJ"
+	default n
+
+config T925_TIEPIAN
+	bool "T925_TIEPIAN"
+	default n
+
+config T925D_NYX_M18
+	bool "T925D_NYX_M18"
+	default n
+
+config T925M_DH_PROJ
+	bool "T925M_DH_PROJ"
+	default n
+
+config T925G_KW_PROJ
+	bool "T925G_KW_PROJ"
+	default n
+
+config T925H_KW_PROJ
+	bool "T925H_KW_PROJ"
+	default n
+
+config T925J_YX
+	bool "T925J_YX"
+	default n
+
+config T925C_LG
+	bool "T925C_LG"
+	default n
+
+config T925R_HAIDI_P700
+	bool "T925R_HAIDI_P700"
+	default n
+
+config T925AC_HAIDI_P710
+	bool "T925AC_HAIDI_P710"
+	default n
+
+config T925F_AZYP_PROJ
+	bool "T925F_AZYP_PROJ"
+	default n
+
+config T925U_YS_T925
+	bool "T925U_YS_T925"
+	default n
+
+config T925X_YS_T925
+	bool "T925X_YS_T925"
+	default n
+
+config T925AB_QZ_PROJ
+	bool "T925AB_QZ_PROJ"
+	default n
+
+config T925T_DG_PROJ
+	bool "T925T_DG_PROJ"
+	default n
+
+config T925W_ZZB_PROJ
+	bool "T925W_ZZB_PROJ"
+	default n
+
+

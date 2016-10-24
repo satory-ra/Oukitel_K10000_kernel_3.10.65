@@ -1,0 +1,28 @@
+
+config T99_PROJ
+	bool "T99_PROJ"
+	default n
+
+config T99H_HAIER_PROJ
+	bool "T99H_HAIER_PROJ"
+	default n
+
+config T99H_OUQI_PROJ
+	bool "T99H_OUQI_PROJ"
+	default n
+
+config T99L_DWS_PROJ
+	bool "T99L_DWS_PROJ"
+	default n
+
+config T99F_LF_PROJ
+	bool "T99F_LF_PROJ"
+	default n
+
+config T991_PROJ
+	bool "T991_PROJ"
+	default n
+
+config T99C_JQ_PROJ
+	bool "T99C_JQ_PROJ"
+	default n

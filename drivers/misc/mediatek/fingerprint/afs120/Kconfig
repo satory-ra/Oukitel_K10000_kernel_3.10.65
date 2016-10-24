@@ -1,0 +1,21 @@
+# Finger configuration
+menuconfig INPUT_FINGER
+	bool "Finger devices"
+	default y
+	help
+	Say Y here, and a list of supported finger will be displayed.
+	This option doesn't affect the kernel.
+	If unsure, say Y.
+
+if INPUT_FINGER
+config FINGER_MA
+	tristate "fingerprints"
+	depends on SPI
+	default y
+	---help---
+	Say Y here if you want to supports when some keys are pressed;
+	To compile this driver as a module, choose M here: the
+	module will be called afs120.
+	If unsure, say Y.
+endif
+#source "drivers/input/finger"

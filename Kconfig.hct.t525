@@ -1,0 +1,5 @@
+
+config T525_PROJ
+	bool "T525_PROJ"
+	default n
+

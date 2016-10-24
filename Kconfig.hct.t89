@@ -1,0 +1,20 @@
+
+config T89_PROJ
+	bool "T89_PROJ"
+	default n
+
+config T89P_YX_PROJ
+	bool "T89P_YX_PROJ"
+	default n
+
+config T89B_OTD_PROJ
+	bool "T89B_OTD_PROJ"
+	default n
+
+config T89P_HD_PROJ
+	bool "T89P_YX_PROJ"
+	default n
+
+config T89G_TX_PROJ
+	bool "T89G_TX_PROJ"
+	default n
